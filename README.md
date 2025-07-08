@@ -1,6 +1,6 @@
 # Requisitos
 
-Node.js: v16.18.126
+Node.js: v22.14.0
 
 # Instalação
 
